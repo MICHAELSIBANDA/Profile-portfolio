@@ -5,7 +5,7 @@ const Socials = () => {
     <div className="flex items-center justify-center gap-2 w-full *:cursor-pointer">
       {/* Twitter */}
       <a
-        href="https://x.com/ContactDumisa"
+        href="https://x.com/GucciSibanda"
         target="_blank"
         className=" w-8 h-8 rounded-lg ">
         <svg
@@ -22,7 +22,7 @@ const Socials = () => {
 
       {/* Github */}
       <a
-        href="https://github.com/dumisa-sakhile"
+        href="https://github.com/MICHAELSIBANDA"
         target="_blank"
         className=" w-8 h-8 rounded-lg ">
         <svg
@@ -43,7 +43,7 @@ const Socials = () => {
 
       {/* LinkedIn */}
       <a
-        href="https://www.linkedin.com/in/sakhile-dumisa"
+        href="https://www.linkedin.com/in/michael-sibanda-64ba42245/"
         target="_blank"
         className=" w-8 h-8 rounded-lg ">
         <svg
@@ -63,7 +63,7 @@ const Socials = () => {
         </svg>
       </a>
 
-      <a href="mailto:dumisa.message@outlook.com">
+      <a href="mailto:0740295373ms@gmail.com">
         <svg
           className="w-8 h-8 text-orange-600"
           aria-hidden="true"

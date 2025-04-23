@@ -3,17 +3,21 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 AOS.init();
+
 function ContactForm() {
-  const [state, handleSubmit] = useForm("xovaoaje");
+  const [state, handleSubmit] = useForm("mgvkezdy"); // Updated form ID!
+
   if (state.succeeded) {
     return (
       <div
         className="p-4 mb-4 text-sm text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400 md:w-[40%]"
-        role="alert">
+        role="alert"
+      >
         <span className="font-medium">Successfully Sent!</span> Thank you for your message, I will get back to you shortly.
       </div>
     );
   }
+
   return (
     <form onSubmit={handleSubmit}>
       <h1 className="oswald uppercase text-8xl w-[60%] text-white">
@@ -22,7 +26,7 @@ function ContactForm() {
       <h1 className="oswald uppercase text-8xl w-[60%] text-[#998f8fdf]">
         CONNECT
       </h1>
-<br />
+      <br />
       <p>Please feel free to reach out to me if you want to know more.</p>
       <br />
 
@@ -60,12 +64,6 @@ function ContactForm() {
       </fieldset>
       <br />
 
-      <label
-        htmlFor="message"
-        className="hidden inter-regular text-white ml-4">
-        Message
-      </label>
-
       <textarea
         name="message"
         id="message"
@@ -75,7 +73,6 @@ function ContactForm() {
         placeholder="Your message goes here..."
       />
       <ValidationError prefix="Message" field="message" errors={state.errors} />
-
       <br />
       <br />
 
@@ -83,13 +80,14 @@ function ContactForm() {
         <button
           type="submit"
           disabled={state.submitting}
-          className="bg-[#C5FF41] hover:bg-[#6f9c05] text-black font-bold py-2 px-4 rounded w-full">
+          className="bg-[#C5FF41] hover:bg-[#6f9c05] text-black font-bold py-2 px-4 rounded w-full"
+        >
           Send Message
         </button>
       </div>
       <br />
     </form>
   );
-};
+}
 
 export default ContactForm;
