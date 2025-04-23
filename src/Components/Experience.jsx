@@ -93,7 +93,7 @@ const Experience = () => {
         <div className="flex rounded-lg border border-[#9bd70e] bg-[#C5FF41] flex-col max-w-sm">
           <div className="flex h-full flex-col justify-center gap-4 p-6">
             <h5 className="text-2xl font-bold tracking-tight text-black">
-              Cinema Vibes
+            Twentyfrom20
             </h5>
             <p className="font-normal text-black text-sm">
             The #Twentyfrom20 campaign, spearheaded by the Tshwane University of Technology (TUT),
