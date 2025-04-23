@@ -30,12 +30,12 @@ const Profile = () => {
       <Socials />
 
       <p className="text-sm text-center inter-regular text-white md:text-black">
-        Photograph by&nbsp;
+        Photograph by__
         <a
-          href="https://www.freepik.com/free-photo/portrait-young-african-american-man_13611638.htm#fromView=search&page=1&position=16&uuid=f923919f-79c8-4eb9-8dce-743319d24e6a"
+          href="https://www.tiktok.com/@altihajase"
           target="_blank"
           className="text-orange-600 cursor-pointer">
-          Freepik
+          Altiha Jase
         </a>
       </p>
     </main>
