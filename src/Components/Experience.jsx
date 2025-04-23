@@ -45,23 +45,16 @@ const Experience = () => {
                 React-helmet-async
               </span>
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Tanstack Query
+                HTML:5
               </span>
-              <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Axios
-              </span>
-              <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Shadcn-ui
-              </span>
-              <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                TMDB API
-              </span>
+             
+             
+              
+              
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
                 YouTube API
               </span>
-<span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Clerk Auth
-              </span>
+
             </div>
 
             <a

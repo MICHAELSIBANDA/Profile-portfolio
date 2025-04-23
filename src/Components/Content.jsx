@@ -25,15 +25,7 @@ const Content = () => {
       <ContactForm />
       <br />
       <br />
-      <p className="text-sm inter-light text-white text-center w-full md:w-[25%] ">
-        Design inspired__
-        <a
-          href="https://x.com/ContactDumisa"
-          target="_blank"
-          className="text-orange-600 cursor-pointer">
-          Sakhile Dumisa
-        </a>
-      </p>
+      
       <br /><br />
     </div>
   );
