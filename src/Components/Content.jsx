@@ -26,12 +26,12 @@ const Content = () => {
       <br />
       <br />
       <p className="text-sm inter-light text-white text-center w-full md:w-[25%] ">
-        Design inspired by &nbsp;
+        Design inspired__
         <a
-          href="https://x.com/Mejed_k"
+          href="https://x.com/ContactDumisa"
           target="_blank"
           className="text-orange-600 cursor-pointer">
-          Mejed Alkoutaini
+          Sakhile Dumisa
         </a>
       </p>
       <br /><br />
