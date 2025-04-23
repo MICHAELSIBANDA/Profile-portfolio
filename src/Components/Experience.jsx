@@ -11,8 +11,7 @@ const Experience = () => {
 
       <br />
       <p className="text-[#998F8F] text-lg md:w-[40%] inter-regular">
-        Please note that Cinema Land is the latest and upgraded version of
-        Cinema Vibes.
+        Please note that AlumniSpace is the latest project I am working on at ICEP as IT Project Manger .
       </p>
       <br />
       <br />
@@ -20,25 +19,24 @@ const Experience = () => {
         <div className="flex rounded-lg border border-orange-700 bg-orange-600 flex-col max-w-sm">
           <div className="flex h-full flex-col justify-center gap-4 p-6">
             <h5 className="text-2xl font-bold tracking-tight text-black">
-              Cinema Land
+              AlumniSpace
             </h5>
             <p className="font-normal text-black text-sm">
-              Discover your next favorite film! Cinema Land is your ultimate
-              destination for movie reviews, ratings, and recommendations.
-              Explore now!
+            The AlumniSpace Website is built as a responsive web application that integrates core
+             functionalities aimed at serving the needs of both alumni and the institution
             </p>
             <div className="flex items-center flex-wrap gap-2 justify-start *:capitalize">
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
                 ReactJS
               </span>
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                TailwindCSS
+                C#
               </span>
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                TypeScript
+                SQL
               </span>
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Framer Motion
+                Agile Scrum Methodology
               </span>
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
                 React-router-dom
@@ -67,7 +65,7 @@ const Experience = () => {
             </div>
 
             <a
-              href="https://cinema-land.vercel.app"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full">
@@ -75,7 +73,7 @@ const Experience = () => {
                 type="button"
                 className=" w-[100%] group relative flex items-stretch justify-center p-0.5 text-center font-medium transition-[color,background-color,border-color,text-decoration-color,fill,stroke,box-shadow] focus:z-10 focus:outline-none border border-transparent bg-black text-white focus:ring-4 focus:ring-cyan-300 enabled:hover:bg-slate-800 rounded-lg">
                 <span className="flex items-stretch transition-all duration-200 rounded-md px-4 py-2 text-sm">
-                  Visit Website
+                  Under Construction
                   <svg
                     className="-mr-1 ml-2 h-4 w-4"
                     fill="text-white"
@@ -98,11 +96,12 @@ const Experience = () => {
               Cinema Vibes
             </h5>
             <p className="font-normal text-black text-sm">
-              Experience the ultimate cinematic journey with Cinema Vibes. Get
-              hooked on our expertly curated movie recommendations, featuring
-              similar titles, captivating summaries, and thrilling trailers.
-              Find your new favorite film and vibe with the community of movie
-              lovers!
+            The #Twentyfrom20 campaign, spearheaded by the Tshwane University of Technology (TUT),
+             is a fundraising initiative aimed at raising R1.2 million by partnering with 60 companies,
+              each contributing R20,000. The funds will support three key projects: the Ndumo Community Project,
+               the Grade R Centre of Excellence, and the Intervarsity Hackathon Series. These projects focus on community development,
+                early childhood education, and fostering innovation among students. The campaign runs from 1 September to 29 November 2024,
+                 and participating companies will receive recognition and a Section 18A tax certificate. citeturn0search0 
             </p>
 
             <div className="flex items-center flex-wrap gap-2 justify-start">
@@ -110,25 +109,21 @@ const Experience = () => {
                 Vanilla JS
               </span>
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                TailwindCSS
+              ReactJS
               </span>
 
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Axios
+                C#
               </span>
-              <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                TMDB API
-              </span>
+              
               <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
                 YouTube API
               </span>
-              <span className="text-white inter-light text-sm rounded-full bg-black  shadow-md px-3 py-2  hover:bg-opacity-75 cursor-pointer">
-                Vite
-              </span>
+             
             </div>
 
             <a
-              href="https://cinema-vibes.vercel.app"
+              href="https://www.20from20.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full">
